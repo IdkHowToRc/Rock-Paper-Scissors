@@ -1,2 +1,2 @@
 # Rock-Paper-Scissors
-Html, Css and Javascript Single-Player Game.
+Html, Css and Javascript Single Player Game.
